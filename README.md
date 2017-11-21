@@ -1,5 +1,3 @@
-# torufuruya.github.io
-
 ## Links
 
 - [Blog](http://tofucodes.hatenablog.jp/)
