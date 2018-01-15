@@ -20,5 +20,5 @@ Mobile Application Developer offering advanced knowledge of Objective-C and Swif
 
 ## Talks
 
-- [CROSS 2014](http://2014.cross-party.com/programs/pairpro/)
-- [CROSS 2014](http://gihyo.jp/news/report/01/cross2014/0003)（上記リンク切れ）
+- [CROSS 2014](http://2014.cross-party.com/programs/pairpro/) (dead link)
+- [CROSS 2014](http://gihyo.jp/news/report/01/cross2014/0003)
