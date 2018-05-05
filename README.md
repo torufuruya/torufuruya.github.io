@@ -1,5 +1,5 @@
 **Nice to e-meet you!**  
-My name is Toru. I am a Software Engineer, iOS Developer, as well as lover of beer. I am a fan of technology and programming. I’m also loving football, coffee and of course 🍣. I'm based in Tokyo now and hope to work borderless. I'm waiting for requests for work from all over the world!
+My name is Toru. I am a Software Engineer, iOS Developer, as well as lover of beer. I am a fan of technology and programming. I’m also loving football, coffee and of course 🍣. I'm based in Tokyo now but I'm waiting for requests for work from all over the world!
 
 ## Summary
 
