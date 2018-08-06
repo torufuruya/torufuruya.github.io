@@ -1,7 +1,6 @@
 ## Greeting
 
-**Nice to e-meet you!**  
-My name is Toru. I am a Software Engineer, iOS Developer, as well as lover of beer. I am a fan of technology and programming. I’m also loving football, coffee and of course 🍣. I'm based in Tokyo now but I'm waiting for requests for work from all over the world!
+**Nice to e-meet you!** My name is Toru. I am a Software Engineer, iOS Developer, as well as lover of beer. I am a fan of technology and programming. I’m also loving football, coffee and of course 🍣. I'm based in Tokyo now but I'm waiting for requests for work from all over the world!
 
 ## Summary
 
@@ -9,7 +8,7 @@ I’ve been working on iOS development for the past three years. I have experien
 
 ## Professional Experience
 
-### Paidy Inc.
+#### Paidy Inc.
 
 _May 2018-Present_
 
@@ -17,7 +16,7 @@ _May 2018-Present_
 - Blah
 - Blah
 
-### Glossom, Inc.
+#### Glossom, Inc.
 
 _Jun 2015-Feb 2018_
 
@@ -25,7 +24,7 @@ _Jun 2015-Feb 2018_
 - Blah
 - Blah
 
-### Gree, Inc.
+#### Gree, Inc.
 
 _Apr 2012-Jun 2015_
 
@@ -43,12 +42,12 @@ _Apr 2012-Jun 2015_
 
 ### Writing
 
-- Blog: http://tofucodes.hatenablog.jp/archive
-- Medium: https://medium.com/@toru_furuya
-- Presentation: https://speakerdeck.com/torufuruya
+- Blog: [http://tofucodes.hatenablog.jp/archive](http://tofucodes.hatenablog.jp/archive)
+- Medium: [https://medium.com/@toru_furuya](https://medium.com/@toru_furuya)
+- Presentation: [https://speakerdeck.com/torufuruya](https://speakerdeck.com/torufuruya)
 
 ### Social
 
-- Twitter: https://twitter.com/toru_furuya
-- GitHub: https://github.com/torufuruya
-- Stack Overflow: https://stackoverflow.com/users/4834226/tofucodes
+- Twitter: [https://twitter.com/toru_furuya](https://twitter.com/toru_furuya)
+- GitHub: [https://github.com/torufuruya](https://github.com/torufuruya)
+- Stack Overflow: [https://stackoverflow.com/users/4834226/tofucodes](https://stackoverflow.com/users/4834226/tofucodes)
