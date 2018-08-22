@@ -9,7 +9,7 @@ I've been in Agile development for more than six years. Although small scale, ha
 
 ## Professional Experience
 
-#### Paidy Inc.
+#### [Paidy Inc.](https://engineering.paidy.com/)
 
 _May 2018-Present_
 
@@ -19,7 +19,7 @@ __Mobile App Engineer__
 - Engaged in iOS Wallet and Pass development.
 - Engaged in iBeacon and GPS programming.
 
-#### Glossom, Inc.
+#### [Glossom, Inc.](https://www.glossom.co.jp/)
 
 _Jun 2015-Feb 2018_
 
@@ -29,7 +29,7 @@ __Software Engineer__
 - Implemented unit test and UI test code to detect bugs in advance.
 - Built an automated test environment for these tests with CI tool and configured it to be able to maintain test jobs as a code.
 
-#### Gree, Inc.
+#### [Gree, Inc.](http://corp.gree.net/jp/en/)
 
 _Apr 2012-Jun 2015_
 
