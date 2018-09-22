@@ -50,14 +50,10 @@ __Software Engineer__
 
 ## Links
 
-### Writing
-
+- _Portfolio_ _[https://projectshowcase.me/torufuruya](https://projectshowcase.me/torufuruya)_
 - _Blog_ _[http://tofucodes.hatenablog.jp/archive](http://tofucodes.hatenablog.jp/archive)_
 - _Medium_ _[https://medium.com/@toru_furuya](https://medium.com/@toru_furuya)_
-- _Presentation_ _[https://speakerdeck.com/torufuruya](https://speakerdeck.com/torufuruya)_
-
-### Social
-
+- _Speacer Deck_ _[https://speakerdeck.com/torufuruya](https://speakerdeck.com/torufuruya)_
 - _Twitter_ _[https://twitter.com/toru_furuya](https://twitter.com/toru_furuya)_
 - _GitHub_ _[https://github.com/torufuruya](https://github.com/torufuruya)_
-- _Stack Overflow_ _[https://stackoverflow.com/users/4834226/tofucodes](https://stackoverflow.com/users/4834226/tofucodes)_
+- _Stack Overflow_ _[https://stackoverflow.com/users/story/4834226](https://stackoverflow.com/users/story/4834226)_
