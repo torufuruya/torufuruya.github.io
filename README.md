@@ -1,6 +1,6 @@
 ## Greeting
 
-**Nice to e-meet you!** My name is Toru. I am a Software Engineer, Mobile App Developer, as well as lover of beer. I am a fan of technology and programming. I’m also loving football, coffee and of course 🍣. I'm based in Tokyo now and looking forward to wokring with you wherever you are!
+**Nice to e-meet you!** My name is Toru. I am a Software Engineer, Mobile App Developer and Lover of :beer:. I am a fan of technology and programming. I’m also loving football, coffee and of course 🍣. I'm based in Tokyo now and looking forward to working with you wherever you are!
 
 ## Summary
 
@@ -9,9 +9,9 @@ I've been in Agile development for more than six years. Although small scale, ha
 
 ## Professional Experience
 
-#### [Paidy Inc.](https://engineering.paidy.com/)
+### [Paidy Inc.](https://engineering.paidy.com/)
 
-_May 2018-Present_
+May 2018-Present
 
 __Mobile App Engineer__
 
@@ -19,9 +19,9 @@ __Mobile App Engineer__
 - Engaged in iOS Wallet and Pass development.
 - Engaged in iBeacon and GPS programming.
 
-#### [Glossom, Inc.](https://www.glossom.co.jp/)
+### [Glossom, Inc.](https://www.glossom.co.jp/)
 
-_Jun 2015-Feb 2018_
+Jun 2015-Feb 2018
 
 __Software Engineer__
 
@@ -29,9 +29,9 @@ __Software Engineer__
 - Implemented unit test and UI test code to detect bugs in advance.
 - Built an automated test environment for these tests with CI tool and configured it to be able to maintain test jobs as a code.
 
-#### [Gree, Inc.](http://corp.gree.net/jp/en/)
+### [Gree, Inc.](http://corp.gree.net/jp/en/)
 
-_Apr 2012-Jun 2015_
+Apr 2012-Jun 2015
 
 __Software Engineer__
 
