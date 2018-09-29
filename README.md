@@ -11,9 +11,7 @@ I've been in Agile development for more than six years. Although small scale, ha
 
 ### [Paidy Inc.](https://engineering.paidy.com/)
 
-May 2018-Present
-
-__Mobile App Engineer__
+__Mobile App Engineer__ &nbsp;&nbsp; _May 2018-Present_
 
 - Developed iOS app and Android app.
 - Engaged in iOS Wallet and Pass development.
@@ -21,9 +19,7 @@ __Mobile App Engineer__
 
 ### [Glossom, Inc.](https://www.glossom.co.jp/)
 
-Jun 2015-Feb 2018
-
-__Software Engineer__
+__Software Engineer__ &nbsp;&nbsp; _Jun 2015-Feb 2018_
 
 - Developed iOS apps and SDKs in agile development using Objective-C and Swift.
 - Implemented unit test and UI test code to detect bugs in advance.
@@ -31,9 +27,7 @@ __Software Engineer__
 
 ### [Gree, Inc.](http://corp.gree.net/jp/en/)
 
-Apr 2012-Jun 2015
-
-__Software Engineer__
+__Software Engineer__ &nbsp;&nbsp; _Apr 2012-Jun 2015_
 
 - Engaged in client side (JavaScript, TypeScript) and server side (PHP, MySQL) programming of several web apps.
 - Built an environment that enables JavaScript development and automatic testing simultaneously using Karma, Mocha, Chai, Sinon.JS, and Grunt.
