@@ -1,6 +1,6 @@
 ## Greeting
 
-**Nice to e-meet you!** My name is Toru. I am a Software Engineer, Mobile App Developer and Lover of :beer:. I am a fan of technology and programming. I’m also loving football, coffee and of course 🍣. I'm based in Tokyo now and looking forward to working with you wherever you are!
+**Nice to e-meet you!** My name is Toru. I am a Software Engineer, Mobile App Developer and Lover of 🍺. I am a fan of technology and programming. I’m also loving football, coffee and of course 🍣. I'm based in Tokyo now and looking forward to working with you wherever you are!
 
 ## Summary
 
@@ -11,7 +11,7 @@ I've been in Agile development for more than six years. Although small scale, ha
 
 ### [Paidy Inc.](https://engineering.paidy.com/)
 
-__Mobile App Engineer__ &nbsp;&nbsp; _May 2018-Present_
+__Mobile App Engineer__ &nbsp;&nbsp; _March 2018-Present_
 
 - Developed iOS app and Android app.
 - Engaged in iOS Wallet and Pass development.
