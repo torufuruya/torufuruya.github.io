@@ -13,24 +13,28 @@ I've been in Agile development for more than six years. Although small scale, ha
 
 __Mobile App Engineer__ &nbsp;&nbsp; _March 2018-Present_
 
-- Developed iOS app and Android app.
-- Engaged in iOS Wallet and Pass development.
+- Developed iOS and Android apps using Swift and Kotlin.
+- Implemented unit test and UI test code, and automated environment using Travis CI.
+- Redesigned Android app using Architecture Components and Layered architecture. 
+- Engaged in iOS Wallet and PassKit development.
 - Engaged in iBeacon and GPS programming.
 
 ### [Glossom, Inc.](https://www.glossom.co.jp/)
 
 __Software Engineer__ &nbsp;&nbsp; _Jun 2015-Feb 2018_
 
-- Developed iOS apps and SDKs in agile development using Objective-C and Swift.
-- Implemented unit test and UI test code to detect bugs in advance.
-- Built an automated test environment for these tests with CI tool and configured it to be able to maintain test jobs as a code.
+- Developed hotel booking iOS app, and video advertising SDKs from scratch using Objective-C and Swift.
+- Implemented unit tests and UI tests code to detect bugs in advance.
+- Built an automated test environment with Jenkins and configured it to be able to maintain the jobs as a code.
+- Engaged in charge of Android developer team management.
 
 ### [Gree, Inc.](http://corp.gree.net/jp/en/)
 
 __Software Engineer__ &nbsp;&nbsp; _Apr 2012-Jun 2015_
 
-- Engaged in client side (JavaScript, TypeScript) and server side (PHP, MySQL) programming of several web apps.
+- Engaged in client side (JavaScript, TypeScript) and server side (PHP, MySQL) programming in several web apps.
 - Built an environment that enables JavaScript development and automatic testing simultaneously using Karma, Mocha, Chai, Sinon.JS, and Grunt.
+- Took the stage about Javascript unit testing at CROSS 2014 which was one of the biggest conferences in Japan.
 
 ## Skills And Certifications
 
