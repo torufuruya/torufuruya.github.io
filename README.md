@@ -1,6 +1,6 @@
 ## Greeting
 
-**Nice to e-meet you:)** My name is Toru. I am a Software Engineer and Mobile App Developer. I am a fan of technology and programming. I’m also loving ⚽️☕️🍺🍣. I'm based in Tokyo now and looking forward to working with you wherever you are!
+**Nice to e-meet you:)** My name is Toru. I am a Software Engineer and Mobile App Developer. I am a fan of technology and programming. I’m also loving ⚽️☕️🍺🍣. I'm based in Tokyo now and looking forward to collaborating with you wherever you are!
 
 ## Summary
 
