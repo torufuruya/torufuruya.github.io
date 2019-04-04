@@ -70,7 +70,7 @@ __Software Engineer__ &nbsp;&nbsp; _Apr 2012-Jun 2015_
 ### Others
 
 - Accustomed to Agile development and Scrum technique
-- Japanese (native); English (business, TOEIC 810)
+- Japanese (native); English (business, TOEIC 880 Mar,2019)
 
 ## Links
 
