@@ -1,6 +1,6 @@
 ## Greeting
 
-**Nice to e-meet you:)** My name is Toru. I am a Software Engineer and Mobile App Developer. I am a fan of technology and programming. I’m also loving ⚽️☕️🍺🍣. I'm based in Tokyo now and looking forward to collaborating with you wherever you are!
+**Nice to e-meet you :)** My name is Toru. I am a Software Engineer and Mobile App Developer. I am a fan of technology📱, programming👨‍💻 and football⚽️. I'm based in Tokyo for now but looking forward to collaborating remotely with you wherever you are!
 
 ## Summary
 
@@ -53,7 +53,6 @@ __Software Engineer__ &nbsp;&nbsp; _Apr 2012-Jun 2015_
 
 ### Frameworks
 
-- Android Architecture Components
 - Ruby on Rails
 - Laravel
 - FuelPHP
@@ -81,3 +80,4 @@ __Software Engineer__ &nbsp;&nbsp; _Apr 2012-Jun 2015_
 - _Twitter_ _[https://twitter.com/toru_furuya](https://twitter.com/toru_furuya)_
 - _GitHub_ _[https://github.com/torufuruya](https://github.com/torufuruya)_
 - _Stack Overflow_ _[https://stackoverflow.com/users/story/4834226](https://stackoverflow.com/users/story/4834226)_
+- _Lancers (as freelance)_ _[https://www.lancers.jp/profile/tofucodes](https://www.lancers.jp/profile/tofucodes)_
