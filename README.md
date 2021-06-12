@@ -1,17 +1,21 @@
-## Greeting
+## 👋 Hi there 
 
-**Nice to e-meet you :)** My name is Toru. I am a Software Engineer and Mobile App Developer. I am a fan of technology📱, programming👨‍💻 and football⚽️. I'm based in Tokyo for now but looking forward to collaborating remotely with you wherever you are!
+I am a Software Engineer and Mobile App Developer. I am a fan of technology📱, programming👨‍💻 and football⚽️. I'm based in Japan 🇯🇵 for now but looking forward to collaborating with you wherever you are 🌍!
 
-## Summary
+## 📓 Summary 
 
-I've been working on Software Engineering for years. Especially iOS and Android development during the past few years. Comfortable working with both Objective-C and Swift, and can develop robust app through the unit test and UI test. Have plenty of experience in automating development flow using some of popular CI services.  
-I've been engaging in Agile development since 2012. Have experienced the management of the developer team and realized smooth progress although it was a small scale.
+Have been working on Software Engineering for years. Especially iOS and Android app development during the past few years. Can work with not only native approach like Swift, Kotlin but also cutting edge technologies like ReactNative and Flutter. Have plenty of experience in automating development flow using some of popular CI services.  
 
-## Professional Experience
+## 👨‍🚀 Professional Experience
 
 ### [Paidy Inc.](https://engineering.paidy.com/)
 
-__Mobile App Engineer__ &nbsp;&nbsp; _March 2018-Present_
+__Mobile App Engineer (specialized in Automation)__ &nbsp;&nbsp; _Sep 2020-Present_
+
+- Engaged in implementing app automtion for ReactNative app using Appium (Python) and BrowserStack.
+- Constructed an automated release process for ReactNative app using CirclecI.
+
+__Mobile App Engineer__ &nbsp;&nbsp; _March 2018-Sep 2020_
 
 - Engaged in Paidy [iOS](https://itunes.apple.com/jp/app/paidy/id1220373112?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.paidy.paidy&hl=en) apps. [Swift, Kotlin]
 - Implemented unit test and UI test, and automated them using Travis CI. [Travis CI, fastlane]
@@ -38,46 +42,55 @@ __Software Engineer__ &nbsp;&nbsp; _Apr 2012-Jun 2015_
 - Built an automated environment that enables JavaScript development and testing simultaneously using some libraries. [Karma, Mocha, Chai, Sinon.JS, Grunt]
 - Took the stage about Javascript unit testing at the CROSS 2014 which was one of the biggest conferences in Japan.
 
-## Skills And Certifications
+## 🦾 Skills And Certifications
 
 ### Programming Languages
 
+- Python
 - Swift
 - Objective-C
 - Kotlin
 - PHP
 - JavaScript
 - TypeScript
-- CoffeeScript
 - Ruby
 
 ### Frameworks
 
+- ReactNative
+- Flutter
 - Ruby on Rails
 - Laravel
 - FuelPHP
 - Ethna
 
+### Testing
+
+- Pytest
+- XCTest
+- XCUITest
+
 ### Tools
 
-- Jenkins
+- Appium
+- BrowserStack
+- CircleCI
 - Travis CI
-- fastlane
+- Jenkins
+- Fastlane
+- CocoaPods
+- Carthage
 - mitmproxy
 - postman
 
 ### Others
 
-- Accustomed to Agile development and Scrum technique
 - Japanese (native); English (business, TOEIC 880 Mar,2019)
 
-## Links
+## 🧩 More Pieces
 
-- _Portfolio_ _[https://projectshowcase.me/torufuruya](https://projectshowcase.me/torufuruya)_
-- _Blog_ _[http://tofucodes.hatenablog.jp/archive](http://tofucodes.hatenablog.jp/archive)_
+- _Blog (Japanese)_ _[http://tofucodes.hatenablog.jp/archive](http://tofucodes.hatenablog.jp/archive)_
 - _Medium_ _[https://medium.com/@toru_furuya](https://medium.com/@toru_furuya)_
-- _Speaker Deck_ _[https://speakerdeck.com/torufuruya](https://speakerdeck.com/torufuruya)_
-- _Twitter_ _[https://twitter.com/toru_furuya](https://twitter.com/toru_furuya)_
-- _GitHub_ _[https://github.com/torufuruya](https://github.com/torufuruya)_
 - _Stack Overflow_ _[https://stackoverflow.com/users/story/4834226](https://stackoverflow.com/users/story/4834226)_
-- _Lancers (as freelance)_ _[https://www.lancers.jp/profile/tofucodes](https://www.lancers.jp/profile/tofucodes)_
+- _Speaker Deck_ _[https://speakerdeck.com/torufuruya](https://speakerdeck.com/torufuruya)_
+- _Freelance Profile_ _[https://www.lancers.jp/profile/tofucodes](https://www.lancers.jp/profile/tofucodes)_
